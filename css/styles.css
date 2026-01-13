@@ -15,7 +15,7 @@ body {
 /* todo lo del hero es del HEADER */
 .hero{
     color: white;
-    padding: 200px 100px;
+    padding: 200px 60px;
     text-align: center;
     background-image: url(../img/code.png);
     background-attachment: fixed;
@@ -247,6 +247,7 @@ footer {
     position: relative;
     z-index: 1;
 }
+
 
 
 
